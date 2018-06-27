@@ -53,7 +53,7 @@ namespace DB
                 }
                 else
                 {
-                    MessageBox.Show("Чёт не то");
+                    MessageBox.Show("Чёт не то  ");
                 }
             }
             catch (Exception ex)
